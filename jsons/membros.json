@@ -1,0 +1,23 @@
+[
+  {
+    "nome": "pablo flores",
+    "email": "pflowersc@gmail.com",
+    "telefone": "991234577",
+    "id": 1,
+    "numeroMatricula": "1002033010"
+  },
+  {
+    "nome": "augusto suckball",
+    "email": "sucksaugustom@gmail.com",
+    "telefone": "991234353",
+    "id": 2,
+    "numeroMatricula": "1002033020"
+  },
+  {
+    "nome": "vinicin da costa",
+    "email": "nicinsosta@gmail.com",
+    "telefone": "991234457",
+    "id": 3,
+    "numeroMatricula": "1002033030"
+  }
+]

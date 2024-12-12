@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nrLivro": 1,
+    "nrMembro": 1,
+    "dataEmprestimo": "2024-12-09T17:24:08.192Z",
+    "dataDevolucao": "2024-12-09T17:24:33.464Z"
+  },
+  {
+    "id": 2,
+    "nrLivro": 2,
+    "nrMembro": 2,
+    "dataEmprestimo": "2024-12-11T12:20:00.683Z",
+    "dataDevolucao": "2024-12-11T22:24:31.519Z"
+  },
+  {
+    "id": 3,
+    "nrLivro": 2,
+    "nrMembro": 2,
+    "dataEmprestimo": "2024-12-12T11:17:25.139Z",
+    "dataDevolucao": "2024-12-12T11:18:12.498Z"
+  },
+  {
+    "id": 4,
+    "nrLivro": 1,
+    "nrMembro": 1,
+    "dataEmprestimo": "2024-12-12T11:53:00.915Z",
+    "dataDevolucao": "2024-12-12T11:53:11.504Z"
+  },
+  {
+    "id": 5,
+    "nrLivro": 1,
+    "nrMembro": 1,
+    "dataEmprestimo": "2024-12-12T12:46:34.192Z",
+    "dataDevolucao": "2024-12-12T12:46:43.898Z"
+  }
+]

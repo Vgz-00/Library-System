@@ -1,0 +1,34 @@
+[
+  {
+    "nr": 1,
+    "titulo": "american paias",
+    "autor": "john jonhatan",
+    "isbn": "1200457075",
+    "disponivel": true,
+    "anoPublicacao": 2023
+  },
+  {
+    "nr": 2,
+    "titulo": "course of palword",
+    "autor": "shinge mikamy",
+    "isbn": "1002301456",
+    "disponivel": true,
+    "anoPublicacao": 2015
+  },
+  {
+    "nr": 3,
+    "titulo": "pao de batats",
+    "autor": "erivaldo da silva",
+    "isbn": "1002399880",
+    "disponivel": true,
+    "anoPublicacao": 2021
+  },
+  {
+    "nr": 4,
+    "titulo": "living in manaus",
+    "autor": "augustinho martins",
+    "isbn": "1002030030",
+    "disponivel": true,
+    "anoPublicacao": 2023
+  }
+]
